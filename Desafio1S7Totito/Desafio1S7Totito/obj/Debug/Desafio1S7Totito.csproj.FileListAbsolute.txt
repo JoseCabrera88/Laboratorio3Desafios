@@ -1,0 +1,8 @@
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\bin\Debug\Desafio1S7Totito.exe.config
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\bin\Debug\Desafio1S7Totito.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\bin\Debug\Desafio1S7Totito.pdb
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\obj\Debug\Desafio1S7Totito.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\obj\Debug\Desafio1S7Totito.csproj.SuggestedBindingRedirects.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\obj\Debug\Desafio1S7Totito.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\obj\Debug\Desafio1S7Totito.exe
+C:\Users\josec\OneDrive\Escritorio\PROGRAMACION I\Desafios en clase 3\Desafio1S7Totito\Desafio1S7Totito\obj\Debug\Desafio1S7Totito.pdb
